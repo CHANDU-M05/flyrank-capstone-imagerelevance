@@ -1,0 +1,19 @@
+name: AI Image Understanding & Content Matching Engine
+run: docker compose up -d && npm install && npm run migrate && npm run ingest && npm start
+seed: npm run seed
+test: null
+base_url: http://localhost:3000
+endpoints:
+  - GET  /health
+  - GET  /images
+  - GET  /images/:id
+  - POST /images/:id/reprocess
+  - GET  /posts
+  - POST /posts
+  - GET  /posts/:id
+  - GET  /posts/:id/images
+  - POST /posts/:id/images/:imageId/approve
+  - POST /posts/:id/images/:imageId/reject
+  - GET  /jobs/status
+  - GET  /costs
+  - GET  /eval
