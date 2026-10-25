@@ -4,9 +4,16 @@ node_modules/
 # Environment
 .env
 
-# Corpus images committed only if small; large sets use download script
+# Logs and temporary downloads
+*.log
+npm-debug.log*
+logs/
+tmp/
+corpus/originals/
+
+# The resized corpus (~4 MB) is intentionally committed for reproducibility.
+# Only ignore it if it grows far beyond that:
 # corpus/*.jpg
-# corpus/*.png
 
 # OS
 .DS_Store

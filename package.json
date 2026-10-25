@@ -10,7 +10,9 @@
     "migrate": "node src/db/migrate.js",
     "seed": "node src/db/seed.js",
     "ingest": "node src/jobs/ingest.js",
-    "eval": "node scripts/eval.js"
+    "eval": "node scripts/eval.js",
+    "corpus": "node scripts/fetch_corpus.js",
+    "test": "node --test src/tests"
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",

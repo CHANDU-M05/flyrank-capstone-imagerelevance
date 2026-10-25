@@ -1,0 +1,100 @@
+{
+  "posts": [
+    {
+      "slug": "red-fox-behavior",
+      "title": "The Behavior of Red Foxes",
+      "subject_hint": "red fox",
+      "group": "fox",
+      "category": "animal",
+      "body": "Red foxes are solitary, crepuscular hunters. They stalk prey in tall grass, pounce with a high leap, and cache food they cannot finish. This field guide covers their hunting behavior, territorial ranges, and seasonal activity patterns."
+    },
+    {
+      "slug": "vulpes-vulpes-taxonomy",
+      "title": "Vulpes vulpes: A Taxonomic Profile",
+      "subject_hint": "vulpes vulpes",
+      "group": "fox",
+      "category": "animal",
+      "body": "Vulpes vulpes is the largest of the true foxes and the most widely distributed wild carnivore. This profile walks through its classification within the canid family, subspecies variation across continents, and how Vulpes vulpes differs from closely related canids."
+    },
+    {
+      "slug": "gray-wolf-packs",
+      "title": "How Gray Wolf Packs Organize",
+      "subject_hint": "gray wolf",
+      "group": "wolf",
+      "category": "animal",
+      "body": "Gray wolf packs are cooperative family units led by a breeding pair. Pack members coordinate hunts, raise pups together, and defend territories through howling and scent marking. This article explains pack hierarchy and communication."
+    },
+    {
+      "slug": "wolf-howling-myth",
+      "title": "The Myth of the Howling Wolf at the Moon",
+      "subject_hint": "wolf",
+      "group": "wolf",
+      "category": "animal",
+      "body": "Wolves do not howl at the moon; they howl to hold the pack together and mark territory. This piece separates folklore from the real acoustics of Canis lupus long-distance vocalization."
+    },
+    {
+      "slug": "dog-training-basics",
+      "title": "Positive Training Basics for Domestic Dogs",
+      "subject_hint": "domestic dog",
+      "group": "dog",
+      "category": "animal",
+      "body": "Modern dog training leans on positive reinforcement: reward the behavior you want, manage the environment, and keep sessions short. This beginner guide covers clicker timing, treats, and building reliability with your domestic dog."
+    },
+    {
+      "slug": "raising-a-puppy",
+      "title": "Raising a Puppy Through Its First Year",
+      "subject_hint": "puppy",
+      "group": "dog",
+      "category": "animal",
+      "body": "The first twelve months shape a dog for life. Socialization windows, house training, veterinary care, and gentle exposure to new experiences all matter when raising a puppy."
+    },
+    {
+      "slug": "brown-bear-safety",
+      "title": "Staying Safe Around Brown Bears",
+      "subject_hint": "brown bear",
+      "group": "bear",
+      "category": "animal",
+      "body": "Brown bears avoid humans when they can, but close encounters happen on trails and near food. This safety guide covers making noise, storing food, recognizing warning signals, and what to do if a grizzly approaches."
+    },
+    {
+      "slug": "bear-hibernation",
+      "title": "What Really Happens During Bear Hibernation",
+      "subject_hint": "bear",
+      "group": "bear",
+      "category": "animal",
+      "body": "Bear hibernation is not simple sleep. Bears enter a torpor state, recycling waste and dropping heart rate for months without eating. This article explores the physiology behind a brown bear's winter den."
+    },
+    {
+      "slug": "deer-in-the-garden",
+      "title": "Living With Deer in the Garden",
+      "subject_hint": "white-tailed deer",
+      "group": "deer",
+      "category": "animal",
+      "body": "White-tailed deer are beautiful but ravenous landscapers. This guide covers deer-resistant planting, fencing options, and humane ways to keep deer out of a backyard garden."
+    },
+    {
+      "slug": "city-skyline-architecture",
+      "title": "Reading a City Skyline",
+      "subject_hint": "city skyline",
+      "group": "city skyline",
+      "category": "urban",
+      "body": "A skyline is a history book written in glass and steel. This piece explains how to read a city skyline, from the older masonry cores to the supertall towers that mark a recent economic boom."
+    },
+    {
+      "slug": "espresso-brewing-guide",
+      "title": "A Home Barista's Espresso Guide",
+      "subject_hint": "espresso",
+      "group": "coffee cup",
+      "category": "food",
+      "body": "OUT-OF-SCOPE CONTROL. Great espresso is about grind, dose, temperature and pressure. This brewing guide for a home coffee cup covers pulling shots and dialing in a grinder. No matching wildlife or city imagery exists in this corpus."
+    },
+    {
+      "slug": "tall-ships-maritime-history",
+      "title": "Tall Ships and Maritime History",
+      "subject_hint": "sailing ship",
+      "group": "sailing ship",
+      "category": "vehicle",
+      "body": "OUT-OF-SCOPE CONTROL. The age of sail produced clipper ships and galleons that crossed oceans under wind alone. This maritime history essay discusses tall ships. There are no matching images in the corpus, so the system should refuse."
+    }
+  ]
+}
